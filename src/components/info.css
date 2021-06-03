@@ -1,0 +1,14 @@
+.info{
+    background-color:#353535 ;
+    height: 840px;
+}
+.info-text{
+    background-color: #202020;
+    color: white;
+    position: relative;
+    top: 35px;
+    left: 250px;
+    padding: 50px;
+    width:950px;
+    font-size: 18px;
+}
