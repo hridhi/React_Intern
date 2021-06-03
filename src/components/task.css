@@ -1,0 +1,37 @@
+.task{
+    background-color:#353535 ;
+    height: 840px;
+}
+.task-form{
+    position:absolute;
+    width:500px;
+    background-color: #202020;
+    padding: 20px;
+    left:30px;
+    top:120px;
+}
+.task-input{
+    position:relative;
+    width:455px;
+}
+.task-reset{
+    position: relative;
+    left:300px;
+}
+.task-table{
+    position: absolute;
+    left: 660px;
+    top: 120px;
+    width:600px;
+    background-color: #202020;
+    padding: 20px;
+    color: white;
+}
+.task-form1{
+    position:absolute;
+    width:500px;
+    background-color: #202020;
+    padding: 20px;
+    left:30px;
+    top:120px;
+}
